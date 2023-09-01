@@ -1,3 +1,7 @@
+# **This Repo and Swift Package has been deprecated**
+
+Please use [Vonage/vonage-client-sdk-ios](https://github.com/Vonage/vonage-client-sdk-ios) instead, Moving forward that repo will be the location of Vonage Client SDK Swift Package.
+
 # VonageClientSDK Distribution Repo
 Temporary Location for VonageClientSDK distribution via Swift Package Manager (SPM)
 
